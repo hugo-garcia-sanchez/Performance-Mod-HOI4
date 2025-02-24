@@ -1,0 +1,21 @@
+state = {
+	id = 947
+	name = "STATE_947"
+	
+	
+	state_category = wasteland
+
+	
+	history = {
+
+		
+	}
+
+	provinces = {
+		13086 13287
+	}
+	manpower = 130000
+	buildings_max_level_factor = 1.000
+
+	local_supplies = 0.0 
+}

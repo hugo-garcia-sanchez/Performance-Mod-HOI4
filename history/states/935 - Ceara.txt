@@ -1,0 +1,20 @@
+
+state = {
+	id = 935
+	name = "STATE_935"
+	manpower = 1632000 # A third from Rio Grande
+	state_category = wasteland
+
+	
+	history = {
+
+		
+	}
+
+	provinces = {
+		2132 2178 5107 8179
+	}
+	
+
+	local_supplies = 0.0 
+}

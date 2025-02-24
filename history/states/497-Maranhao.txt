@@ -1,0 +1,20 @@
+
+state = {
+	id = 497
+	name = "STATE_497"
+	manpower = 575050 # was 2950100, then 1150100
+	
+	state_category = wasteland
+
+	
+	history = {
+
+		
+	}
+
+	provinces = {
+		2150 5220 12913 12933 12947
+	}
+
+	local_supplies = 0.0 
+}

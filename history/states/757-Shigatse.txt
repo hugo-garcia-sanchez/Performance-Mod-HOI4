@@ -1,0 +1,16 @@
+state={
+	id=757
+	name="STATE_757"
+	provinces={
+		1991 2014 2098 4900 5033 8121 12807 
+	}
+	manpower=1000000
+	state_category = wasteland
+	impassable = yes
+	
+	history = {
+
+		
+	}
+	local_supplies=0.0 
+}
